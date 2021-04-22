@@ -18,7 +18,7 @@ function App() {
   async function obtemResultado(num1,operador,num2) {
     const expr = `${num1}${operador}${num2}` //Expressão = Expr
     // Para está API o operador precisa estar no formato ERL Encoded por isso usei a função encodeURIComponent()
-    let url = `http://api.mathjs.org/v4/?expr=${encodeURIComponent(`${expr}`)}`
+    let url = `https://api.mathjs.org/v4/?expr=${encodeURIComponent(`${expr}`)}`
     await fetch(url)
       .then(response => response.json())
       .then(data => {
