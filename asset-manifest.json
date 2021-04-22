@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/matematica/static/css/main.fe81157e.chunk.css",
+    "main.js": "/matematica/static/js/main.87e6ba71.chunk.js",
+    "main.js.map": "/matematica/static/js/main.87e6ba71.chunk.js.map",
+    "runtime-main.js": "/matematica/static/js/runtime-main.ea7e96d8.js",
+    "runtime-main.js.map": "/matematica/static/js/runtime-main.ea7e96d8.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/matematica/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.941c493c.chunk.js": "/matematica/static/js/2.941c493c.chunk.js",
+    "static/js/2.941c493c.chunk.js.map": "/matematica/static/js/2.941c493c.chunk.js.map",
+    "index.html": "/matematica/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/matematica/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.fe81157e.chunk.css.map": "/matematica/static/css/main.fe81157e.chunk.css.map",
+    "static/js/2.941c493c.chunk.js.LICENSE.txt": "/matematica/static/js/2.941c493c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ea7e96d8.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.941c493c.chunk.js",
+    "static/css/main.fe81157e.chunk.css",
+    "static/js/main.87e6ba71.chunk.js"
+  ]
+}
